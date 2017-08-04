@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/JClouds/JCloudsSwift.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Config/AppConfig.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Frame/CIPC_Clouds.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Bean/DisplayCipcTree.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Frame/InfiniteProgressPanel.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Bean/SwiftInfo.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/TaskSwingWorker/HandleTask.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/TaskSwingWorker/CreateNewFolderSwingWorker.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/TaskSwingWorker/AddTaskSwingWorker.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Frame/ProgressBarRenderer.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Frame/FileListCell.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Frame/TaskTableModel.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/TaskSwingWorker/LoopAddTask.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/resourse/icon.jpg</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Frame/TreeNodeRenderer.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Frame/LoginView.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Bean/Common.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Bean/UpdateCloudsTreeDB.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/TaskSwingWorker/CheckLoginSwingWorker.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Bean/GetFileSize.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Frame/FileListModel.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Frame/LoginMouseListener.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Bean/CloudsTreeeNode.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Bean/Task.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Bean/SQLiteJDBC.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/Frame/AnimatedPanel.java</file>
+            <file>file:/E:/javaProject/CIPC_Clouds/src/com/Cipc/TaskSwingWorker/DeleteSwingWorker.java</file>
+        </group>
+    </open-files>
+</project-private>
